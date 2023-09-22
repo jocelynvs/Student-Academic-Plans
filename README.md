@@ -17,7 +17,7 @@ Convert categorical data into numerical data using Label Encoding.
 #### 5. Clustering
 - Determine the number of clusters using Elbow Method and Calinski Harabasz Method
 - Clustering the data using K-Modes Algorithm
-#### 6. Result Visualization
+#### 6. Visualizing the Results
 Visualize clustering results of each variables using barplots to gain insights.
 
 #### For better understanding, view the above code and file report (Rencana_Akademik_Paper.pdf).
