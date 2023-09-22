@@ -1,6 +1,6 @@
 # Student Academic Plans
 
-## Uses Unsupervised Machine Learning algorithm (K-Modes) to gain insights from the dataset
+## Uses Unsupervised Machine Learning algorithm (K-Modes Clustering) to gain insights from the dataset to help students finish their college
 ### Data Source: DAC UNPAD
 ### Steps:
 #### 1. Load Libaries & Dataset
