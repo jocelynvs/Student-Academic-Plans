@@ -2,6 +2,7 @@
 
 ## Uses Unsupervised Machine Learning algorithm (K-Modes Clustering) to gain insights from the dataset to help students finish their college
 ### Data Source: DAC UNPAD
+This project is made for Data Analysis Competition Informatics Festival 2022 hosted by Universitas Padjajaran.
 ### Steps:
 #### 1. Load Libaries & Dataset
 The dataset used in this project is from Data Analysis Competition by Universitas Padjajaran in Indonesia, containing students informations (name, gender, status, address, GPA, and etc.)
