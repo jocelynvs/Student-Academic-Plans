@@ -56,7 +56,6 @@ Because the dataset consists primarily of categorical variables, the data were e
 K-Modes clustering was selected because it is specifically designed for categorical datasets, unlike K-Means which relies on numerical distance calculations.
 
 Several values of **k** were evaluated, and the optimal number of clusters was determined using:
-
 - Elbow Method
 - Calinski-Harabasz Index
 
@@ -127,6 +126,7 @@ Overall, the clustering results demonstrate that unsupervised learning can effec
 ## Repository Contents
 
 ```
+.
 ├── notebook.ipynb
 ├── Rencana_Akademik_Paper.pdf
 └── README.md
