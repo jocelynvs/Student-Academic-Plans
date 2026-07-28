@@ -123,13 +123,14 @@ Overall, the clustering results demonstrate that unsupervised learning can effec
 
 ---
 
-## Repository Contents
+## Repository Structure
 
 ```
 .
-├── notebook.ipynb
-├── Rencana_Akademik_Paper.pdf
-└── README.md
+├── dataset.csv                 # Student dataset used for clustering analysis
+├── notebook.ipynb              # Complete implementation including EDA, preprocessing, K-Modes clustering, evaluation, and visualization
+├── Rencana_Akademik_Paper.pdf  # Research paper describing the methodology, experiments, and findings
+└── README.md                   # Project documentation and overview
 ```
 
 The repository includes the implementation notebook and the accompanying project paper, which provides a detailed explanation of the methodology, clustering process, evaluation, and interpretation of the results.
